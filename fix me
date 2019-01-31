@@ -17,9 +17,8 @@ t(mtcars %>%
 # Click on the pencil button and edit the file. 
 # You can also copy all of it and paste in in your R script and work on it. 
 # When you are done editing (and pasting back)
-# You can "commit changes". If no review is needed, yo can commit
+# You can "commit changes". If no review is needed, you can commit
 # directly to the master branch. If you want someone to review it  first
 # you choose the option create a new branch and start a pull request.
-
-
-
+# Even if you commit directly to the master branch, people can always 
+# trace changes and revert back if they didn't like whatt you did.
