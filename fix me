@@ -13,6 +13,13 @@ library(tidverse)
 t(mtcars %>%
   select(mpg, cyl, disp, hp) %>%
   stat.desc(basic = FALSE))
+  
+# Click on the pencil button and edit the file. 
+# You can also copy all of it and paste in in your R script and work on it. 
+# When you are done editing (and pasting back)
+# You can "commit changes". If no review is needed, yo can commit
+# directly to the master branch. If you want someone to review it  first
+# you choose the option create a new branch and start a pull request.
 
 
 
